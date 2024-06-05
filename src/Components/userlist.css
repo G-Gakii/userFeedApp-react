@@ -1,0 +1,10 @@
+.container{
+    width: 40%;
+}
+.partleft{
+    margin: 10px auto;
+    margin-right: 0;
+}
+.partright{
+margin-right: 0;
+}
